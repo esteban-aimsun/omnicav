@@ -62,22 +62,27 @@ education:
     academy: Cardiff School
 service:
   enable: true
-  title: Services
+  title: ''
   item:
-  - title: UI Design
+  - title: What?
     icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: "OmniCAV is a consortium of ten world-leading organisations working together
+      to develop real-world validated simulation-based framework for the testing and
+      certification of autonomous \x03vehicles (AVs) in the UK. "
     highlighted: false
-  - title: UX Design
+  - title: Why?
     icon: ti-vector
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: AVs have the potential to deliver safer, smarter, autonomous mobility
+      for all. But first we need to know that autonomous vehicles can handle challenging
+      road conditions, on country lanes as much as crowded city streets. Testing this
+      on public roads alone is not safe or scalable.
     highlighted: true
-  - title: Interaction Design
+  - title: How?
     icon: ti-panel
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: 'Funded jointly by Innovate UK (70%) and the project partners (30%),
+      OmniCAV is drawing on experience from across the AV ecosystem to create a realistic
+      simulation that will enable accurate, reliable, and scalable testing of autonomous
+      vehicles in a risk-free virtual environment. '
     highlighted: false
 portfolio:
   enable: true
