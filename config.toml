@@ -20,16 +20,16 @@ URL = "blog"
 name = "Partners"
 weight = 2
 [params]
-address = "125/A, CA Commercial Area, California, USA"
+address = "UK"
 author = "Johnathan Smith"
-copyright = "Copyrighht &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2020 OmniCAV. All rights reserved. Theme by [gethugothemes](https://gethugothemes.com)"
 description = "This is meta description"
-email = "steve.fruits@email.com"
+email = "example@omnicav.com"
 google_analitycs_id = "Your ID"
 home = "Home"
-logo = "images/logo.png"
-phone = "+880 2544 658 256"
-theme_color = "#41228e"
+logo = "images/omnicav.png"
+phone = "+00 000 00 0000"
+theme_color = "#1d405e"
 [params.contact]
 enable = true
 form_action = "#"
@@ -53,3 +53,6 @@ preloader = ""
 [[params.social]]
 URL = "#"
 icon = "ti-twitter-alt"
+[[params.social]]
+URL = "#"
+icon = "ti-linkedin"

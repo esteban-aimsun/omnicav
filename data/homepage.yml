@@ -1,12 +1,9 @@
 ---
 banner:
   title: Virtual driving test <br> for safer, smarter <br> Autonomous Vehicles
-  button:
-    enable: true
-    label: know more
-    URL: about
 service:
   enable: true
+  title: ''
   item:
   - title: What?
     icon: ti-palette
@@ -20,7 +17,7 @@ service:
       for all. But first we need to know that autonomous vehicles can handle challenging
       road conditions, on country lanes as much as crowded city streets. Testing this
       on public roads alone is not safe or scalable.
-    highlighted: true
+    highlighted: false
   - title: How?
     icon: ti-panel
     content: 'Funded jointly by Innovate UK (70%) and the project partners (30%),
@@ -33,40 +30,23 @@ about:
   content: 'The OmniCAV project will reinforce the UK’s reputation as one of the world’s
     leaders for the development and deployment of AV technology and provide the following
     benefits for the ecosystem and wider public:'
-portfolio:
+  button:
+    enable: true
+    label: know more
+    URL: about
+education:
   enable: true
-  title: Portfolio
-  item_show: "5"
-testimonial:
-  enable: true
-  title: Testimonials
   item:
-  - name: Jesica Gomez
-    image: images/testimonial/client-1.png
-    designation: CEO, Funder
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit
-      esse cillum dolore eu fugiat nulla pariatur.
-  - name: Shirley Scot
-    image: images/testimonial/client-1.png
-    designation: CEO, Funder
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit
-      esse cillum dolore eu fugiat nulla pariatur.
-  - name: Jessica Julie
-    image: images/testimonial/client-1.png
-    designation: CEO, Funder
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit
-      esse cillum dolore eu fugiat nulla pariatur.
+  - title: Accelerating the introduction of safer, smarter mobility– in time for the 2021 government target to have AVs on our roads
+  - title: Building public trust and confidence in the safety of autonomous vehicles
+  - title: Enabling autonomous mobility in rural areas, which are most in need of improved transportation
+  - title: Reinforcing the UK’s reputation as a leader in the automotive and high tech sectors
+  - title: Providing tools and processes to strengthen the UK’s AV ecosystem
+  - title: Contributing a UK perspective to global safety standards to benefit the AV industry
+  - title: Encouraging cross-sector collaboration and stakeholder engagement to address the complex issues surrounding the broad adoption of autonomous vehicles
 clients_logo_slider:
   enable: true
+  title: Our partners
   item:
   - logo: images/clients-logo/client-logo-1.png
     URL: http://examplesite.com
@@ -90,4 +70,4 @@ clients_logo_slider:
     URL: "#"
 blog:
   enable: true
-  title: Blogs
+  title: News
