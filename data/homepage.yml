@@ -5,11 +5,6 @@ banner:
     enable: true
     label: know more
     URL: about
-about:
-  enable: true
-  content: 'The OmniCAV project will reinforce the UK’s reputation as one of the world’s
-    leaders for the development and deployment of AV technology and provide the following
-    benefits for the ecosystem and wider public:'
 service:
   enable: true
   item:
@@ -33,6 +28,11 @@ service:
       simulation that will enable accurate, reliable, and scalable testing of autonomous
       vehicles in a risk-free virtual environment. '
     highlighted: false
+about:
+  enable: true
+  content: 'The OmniCAV project will reinforce the UK’s reputation as one of the world’s
+    leaders for the development and deployment of AV technology and provide the following
+    benefits for the ecosystem and wider public:'
 portfolio:
   enable: true
   title: Portfolio
