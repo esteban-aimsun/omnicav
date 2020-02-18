@@ -6,20 +6,20 @@ service:
   title: ''
   item:
   - title: What?
-    icon: ti-palette
+    icon: ti-car
     content: "OmniCAV is a consortium of ten world-leading organisations working together
       to develop real-world validated simulation-based framework for the testing and
       certification of autonomous \x03vehicles (AVs) in the UK. "
     highlighted: false
   - title: Why?
-    icon: ti-vector
+    icon: ti-map
     content: AVs have the potential to deliver safer, smarter, autonomous mobility
       for all. But first we need to know that autonomous vehicles can handle challenging
       road conditions, on country lanes as much as crowded city streets. Testing this
       on public roads alone is not safe or scalable.
     highlighted: false
   - title: How?
-    icon: ti-panel
+    icon: ti-pulse
     content: 'Funded jointly by Innovate UK (70%) and the project partners (30%),
       OmniCAV is drawing on experience from across the AV ecosystem to create a realistic
       simulation that will enable accurate, reliable, and scalable testing of autonomous
