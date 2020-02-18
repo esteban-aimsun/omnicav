@@ -1,18 +1,17 @@
 ---
 banner:
   title: Virtual driving test <br> for safer, smarter <br> Autonomous Vehicles
+  button:
+    enable: true
+    label: know more
+    URL: about
 about:
   enable: true
   content: 'The OmniCAV project will reinforce the UK’s reputation as one of the world’s
     leaders for the development and deployment of AV technology and provide the following
     benefits for the ecosystem and wider public:'
-  button:
-    enable: true
-    label: know more
-    URL: about
 service:
   enable: true
-  title: ''
   item:
   - title: What?
     icon: ti-palette
