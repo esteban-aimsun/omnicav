@@ -4,19 +4,19 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "OmniCAV"
 [[menu.main]]
-URL = "about"
+URL = "project"
 name = "Project"
 weight = 1
 [[menu.main]]
-URL = "contact"
+URL = "blog"
 name = "News"
 weight = 4
 [[menu.main]]
-URL = "portfolio"
+URL = "faqs"
 name = "FAQS"
 weight = 3
 [[menu.main]]
-URL = "blog"
+URL = "partners"
 name = "Partners"
 weight = 2
 [params]
@@ -27,7 +27,7 @@ description = "This is meta description"
 email = "example@omnicav.com"
 google_analitycs_id = "Your ID"
 home = "Home"
-logo = "images/omnicav.png"
+logo = "images/omnicav-shadow.png"
 phone = "+00 000 00 0000"
 theme_color = "#1d405e"
 [params.contact]
