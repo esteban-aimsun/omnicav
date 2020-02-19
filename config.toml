@@ -21,7 +21,7 @@ name = "Partners"
 weight = 2
 [params]
 address = "UK"
-author = "Johnathan Smith"
+author = "OmniCAV"
 copyright = "Copyright &copy; 2020 OmniCAV. All rights reserved. Theme by [gethugothemes](https://gethugothemes.com)"
 description = "This is meta description"
 email = "example@omnicav.com"

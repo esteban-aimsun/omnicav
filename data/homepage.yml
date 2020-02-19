@@ -6,20 +6,20 @@ service:
   title: ''
   item:
   - title: What?
-    icon: ti-car
+    icon: images/omnicav-icons1.png
     content: "OmniCAV is a consortium of ten world-leading organisations working together
       to develop real-world validated simulation-based framework for the testing and
       certification of autonomous \x03vehicles (AVs) in the UK. "
     highlighted: false
   - title: Why?
-    icon: ti-map
+    icon: images/omnicav-icons2.png
     content: AVs have the potential to deliver safer, smarter, autonomous mobility
       for all. But first we need to know that autonomous vehicles can handle challenging
       road conditions, on country lanes as much as crowded city streets. Testing this
       on public roads alone is not safe or scalable.
     highlighted: false
   - title: How?
-    icon: ti-pulse
+    icon: images/omnicav-icons3.png
     content: 'Funded jointly by Innovate UK (70%) and the project partners (30%),
       OmniCAV is drawing on experience from across the AV ecosystem to create a realistic
       simulation that will enable accurate, reliable, and scalable testing of autonomous
@@ -48,26 +48,24 @@ clients_logo_slider:
   enable: true
   title: Our partners
   item:
-  - logo: images/clients-logo/client-logo-1.png
+  - logo: images/clients-logo/admiral.jpg
     URL: http://examplesite.com
-  - logo: images/clients-logo/client-logo-2.png
+  - logo: images/clients-logo/aimsun.jpg
     URL: "#"
-  - logo: images/clients-logo/client-logo-3.png
+  - logo: images/clients-logo/arcadis.jpg
     URL: http://examplesite.com
-  - logo: images/clients-logo/client-logo-4.png
+  - logo: images/clients-logo/arrival.jpg
     URL: "#"
-  - logo: images/clients-logo/client-logo-5.png
+  - logo: images/clients-logo/ordnance-survey.jpg
     URL: http://examplesite.com
-  - logo: images/clients-logo/client-logo-1.png
+  - logo: images/clients-logo/oxfordshire-city-council.jpg
     URL: "#"
-  - logo: images/clients-logo/client-logo-2.png
+  - logo: images/clients-logo/race.jpg
     URL: http://examplesite.com
-  - logo: images/clients-logo/client-logo-3.png
+  - logo: images/clients-logo/wmg.jpg
     URL: "#"
-  - logo: images/clients-logo/client-logo-4.png
+  - logo: images/clients-logo/xpi-simulation.jpg
     URL: http://examplesite.com
-  - logo: images/clients-logo/client-logo-5.png
-    URL: "#"
 blog:
   enable: true
   title: News
