@@ -32,7 +32,7 @@ phone = "+00 000 00 0000"
 theme_color = "#1d405e"
 [params.contact]
 enable = true
-form_action = "#"
+form_action = "https://formspree.io/xrgkevow"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
@@ -51,8 +51,8 @@ URL = "plugins/shuffle/shuffle.min.js"
 enable = true
 preloader = ""
 [[params.social]]
-URL = "#"
+URL = "https://twitter.com/omnicav"
 icon = "ti-twitter-alt"
 [[params.social]]
-URL = "#"
+URL = "https://www.linkedin.com/company/omnicav/"
 icon = "ti-linkedin"
